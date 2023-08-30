@@ -1,0 +1,35 @@
+
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(250, 225, 188);
+    font-family: Arial, Helvetica, sans-serif, sans-serif;
+}
+
+.navbar-nav{
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif , sans-serif;
+}
+.img{
+    width: 30%;
+    height: 15%;
+}
+#a1{
+    margin-left: 50%;
+}
+#a2{
+    margin-left: 100%;
+}
+
+.carousel-item{
+    margin-left: 40%;
+    width: 70%;
+    height: 70%;
+}
+
+
+   
+
